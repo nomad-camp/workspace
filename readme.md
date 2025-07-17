@@ -6,7 +6,6 @@
 
 A global network of temporary communities where digital nomads connect authentically, share skills, and build lasting friendships in beautiful natural settings.
 
----
 
 ## Core Philosophy
 
@@ -22,7 +21,6 @@ A global network of temporary communities where digital nomads connect authentic
 - No forced programming - connection emerges around shared daily life
 - Real-world relationships over digital networking
 
----
 
 ## Camp Structure
 
@@ -44,7 +42,6 @@ A global network of temporary communities where digital nomads connect authentic
 - **Evening**: Sessions, workshops, shared meals around fire
 - **Organic Flow**: No rigid schedule, activities emerge naturally
 
----
 
 ## Location Strategy
 
@@ -74,7 +71,6 @@ A global network of temporary communities where digital nomads connect authentic
 - **Flexible Geography**: Open to any suitable location globally
 - **Seasonal Adaptation**: Choose locations appropriate for camping season
 
----
 
 ## Revenue Model
 
@@ -88,7 +84,6 @@ A global network of temporary communities where digital nomads connect authentic
 - Sponsorship opportunities
 - Premium tent/service offerings
 
----
 
 ## Implementation Roadmap
 
@@ -110,7 +105,6 @@ A global network of temporary communities where digital nomads connect authentic
 - Multi-camp network development
 - Enhanced community features
 
----
 
 ## What Makes Nomad Camp Unique
 - **Friendship Over Networking**: Genuine relationships, not business cards
@@ -119,7 +113,6 @@ A global network of temporary communities where digital nomads connect authentic
 - **Authentic Community**: Real daily life sharing, not curated events
 - **Cost Transparency**: Clear shared cost model, no hidden profit motives
 
----
 
 ## Call to Action
 
