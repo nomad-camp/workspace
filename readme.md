@@ -124,20 +124,6 @@ A global network of temporary communities where digital nomads connect authentic
 
 ## Team
 
-The Nomad Camp team consists of three core members:
-
-- **Yannik** (addiinocent) - Nomad and Camp Evangelist
-  - Focus: Vision, Operations, Coworking, IT
-  - Strength: Great Communication
-  
-- **Felix** (felixboehm) - Nomad and Founder  
-  - Focus: Vision, Strategy, Cooking, Coworking, IT
-  - Strength: Innovation and disruption
-  
-- **Andrej** (CerusX) - Nomad and Community Manager
-  - Focus: Workshops, Marketing, Community
-  - Strength: Food and freedom expertise
-
 *See [Team.md](Team.md) for detailed team information and [Marketing: Lead Acquisition FUNNEL.md](Marketing: Lead Acquisition FUNNEL.md) for marketing strategy implementation.*
 
 ## Call to Action
