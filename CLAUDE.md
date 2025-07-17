@@ -11,12 +11,12 @@ This is the **Nomad Camp** project - a concept for creating a global network of 
 This repository contains the complete concept documentation for Nomad Camp:
 
 - **`readme.md`** - Main concept document with full vision and implementation strategy
-- **`Camp-MVP.md`** - First camp structure and September MVP details
-- **`Website-Concept.md`** - Website strategy and technical approach
-- **`Service-offering-concept.md`** - Service categories and target groups
-- **`Marketing.md`** - Marketing strategy and audience messaging
+- **`camps/2025-09_Losheim/Camp-MVP.md`** - First camp structure and September MVP details
+- **`website/Website-Concept.md`** - Website strategy and technical approach
+- **`services/Service-offering-concept.md`** - Service categories and target groups
+- **`marketing/marketing.md`** - Marketing strategy and audience messaging
 - **`Team.md`** - Team members and their roles/skills
-- **`Marketing: Lead Acquisition FUNNEL.md`** - Detailed lead acquisition funnel strategy
+- **`marketing/Marketing: Lead Acquisition FUNNEL.md`** - Detailed lead acquisition funnel strategy
 
 ## Key Concepts
 

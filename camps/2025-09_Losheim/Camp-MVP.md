@@ -2,7 +2,7 @@
 
 **Date**: September
 
-*This document details the MVP camp structure. See [readme.md](readme.md) for full concept overview and [Website-Concept.md](Website-Concept.md) for booking platform strategy.*
+*This document details the MVP camp structure. See [readme.md](../../readme.md) for full concept overview and [website/Website-Concept.md](../../website/Website-Concept.md) for booking platform strategy.*
 
 ## MVP Camp Structure
 
@@ -24,4 +24,4 @@
 - Organic skill sharing and collaboration
 - Genuine friendships formed around shared daily life
 
-*Related: [Service-offering-concept.md](Service-offering-concept.md) for service integration and [Marketing.md](Marketing.md) for target audience messaging*
+*Related: [services/Service-offering-concept.md](../../services/Service-offering-concept.md) for service integration and [marketing/marketing.md](../../marketing/marketing.md) for target audience messaging*

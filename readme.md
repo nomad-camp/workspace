@@ -84,7 +84,7 @@ A global network of temporary communities where digital nomads connect authentic
 - Sponsorship opportunities
 - Premium tent/service offerings
 
-*See [Service-offering-concept.md](Service-offering-concept.md) for detailed service categories and target groups*
+*See [services/Service-offering-concept.md](services/Service-offering-concept.md) for detailed service categories and target groups*
 
 
 ## Implementation Roadmap
@@ -95,7 +95,7 @@ A global network of temporary communities where digital nomads connect authentic
 - Authentic brand
 - Landing pages and advertising
 
-*See [Website-Concept.md](Website-Concept.md) for detailed website strategy and [Marketing.md](Marketing.md) for messaging approach*
+*See [website/Website-Concept.md](website/Website-Concept.md) for detailed website strategy and [marketing/marketing.md](marketing/marketing.md) for messaging approach*
 
 ### Phase 2: First Camp Launch
 - Location confirmation and announcement
@@ -103,7 +103,7 @@ A global network of temporary communities where digital nomads connect authentic
 - Community activation
 - Real-world concept validation
 
-*See [Camp-MVP.md](Camp-MVP.md) for first camp structure and details*
+*See [camps/2025-09_Losheim/Camp-MVP.md](camps/2025-09_Losheim/Camp-MVP.md) for first camp structure and details*
 
 ### Phase 3: Growth & Enhancement
 - Website features based on camp learnings
@@ -111,7 +111,7 @@ A global network of temporary communities where digital nomads connect authentic
 - Multi-camp network development
 - Enhanced community features
 
-*See [Service-offering-concept.md](Service-offering-concept.md) for service categories and integration strategy*
+*See [services/Service-offering-concept.md](services/Service-offering-concept.md) for service categories and integration strategy*
 
 
 ## What Makes Nomad Camp Unique
@@ -124,7 +124,7 @@ A global network of temporary communities where digital nomads connect authentic
 
 ## Team
 
-*See [Team.md](Team.md) for detailed team information and [Marketing: Lead Acquisition FUNNEL.md](Marketing: Lead Acquisition FUNNEL.md) for marketing strategy implementation.*
+*See [Team.md](Team.md) for detailed team information and [marketing/Marketing: Lead Acquisition FUNNEL.md](marketing/Marketing: Lead Acquisition FUNNEL.md) for marketing strategy implementation.*
 
 ## Call to Action
 

@@ -1,6 +1,6 @@
 # Marketing
 
-*This document outlines marketing strategy and audience messaging. See [readme.md](readme.md) for full concept overview and [Service-offering-concept.md](Service-offering-concept.md) for target groups.*
+*This document outlines marketing strategy and audience messaging. See [readme.md](../readme.md) for full concept overview and [services/Service-offering-concept.md](../services/Service-offering-concept.md) for target groups.*
 
 Nomad Camp and Services will be advertised side by side.
 
@@ -19,4 +19,4 @@ Nomad Camp and Services will be advertised side by side.
 - Website remains broadly inclusive
 - Specialized messaging delivered through targeted campaigns
 
-*Related: [Website-Concept.md](Website-Concept.md) for website strategy and [Camp-MVP.md](Camp-MVP.md) for camp experience details*
+*Related: [website/Website-Concept.md](../website/Website-Concept.md) for website strategy and [camps/2025-09_Losheim/Camp-MVP.md](../camps/2025-09_Losheim/Camp-MVP.md) for camp experience details*
