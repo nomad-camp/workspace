@@ -1,4 +1,4 @@
-# Nomad Camp - Merged MVP Concept
+# Nomad Camp - Concept
 
 ## Vision Statement
 
