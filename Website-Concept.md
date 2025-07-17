@@ -1,5 +1,7 @@
 # Website Concept
 
+*This document outlines the website strategy and technical approach. See [readme.md](readme.md) for full concept overview and [Camp-MVP.md](Camp-MVP.md) for first camp details.*
+
 ## Website & Community Platform Integration
 
 ### Website Role
@@ -108,3 +110,5 @@
 - **Warm Photography**: Real camp life, fireplace gatherings, natural settings
 - **Authentic Copy**: Genuine, friendship-focused messaging
 - **Subtle Energy**: Inviting without being overly promotional
+
+*Related: [Marketing.md](Marketing.md) for messaging strategy and [Service-offering-concept.md](Service-offering-concept.md) for service integration*

@@ -1,5 +1,7 @@
 # Marketing
 
+*This document outlines marketing strategy and audience messaging. See [readme.md](readme.md) for full concept overview and [Service-offering-concept.md](Service-offering-concept.md) for target groups.*
+
 Nomad Camp and Services will be advertised side by side.
 
 ## Target Audience (MVP Messaging)
@@ -16,3 +18,5 @@ Nomad Camp and Services will be advertised side by side.
 - Separate advertising landing pages for specific nomad segments
 - Website remains broadly inclusive
 - Specialized messaging delivered through targeted campaigns
+
+*Related: [Website-Concept.md](Website-Concept.md) for website strategy and [Camp-MVP.md](Camp-MVP.md) for camp experience details*

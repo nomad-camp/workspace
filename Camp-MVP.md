@@ -2,6 +2,8 @@
 
 **Date**: September
 
+*This document details the MVP camp structure. See [readme.md](readme.md) for full concept overview and [Website-Concept.md](Website-Concept.md) for booking platform strategy.*
+
 ## MVP Camp Structure
 
 ### Duration & Attendance Model
@@ -21,3 +23,5 @@
 - Natural mentorship through overlapping stays
 - Organic skill sharing and collaboration
 - Genuine friendships formed around shared daily life
+
+*Related: [Service-offering-concept.md](Service-offering-concept.md) for service integration and [Marketing.md](Marketing.md) for target audience messaging*

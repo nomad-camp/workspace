@@ -1,5 +1,7 @@
 # Services
 
+*This document outlines service categories and target groups. See [readme.md](readme.md) for full concept overview and [Camp-MVP.md](Camp-MVP.md) for camp structure.*
+
 Nomad Camp is a playground for Nomads and their services.
 Marketing for Nomad Camp will include services for Nomads by Nomads.
 
@@ -54,3 +56,5 @@ Marketing for Nomad Camp will include services for Nomads by Nomads.
 - **Trust-Based**: Transactions happen after friendship formation
 - **Value-Focused**: Quality over quantity in service offerings
 - **Community Benefit**: Serves camp community first
+
+*Related: [Website-Concept.md](Website-Concept.md) for service integration on website and [Marketing.md](Marketing.md) for target audience messaging*

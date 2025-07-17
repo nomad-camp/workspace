@@ -84,6 +84,8 @@ A global network of temporary communities where digital nomads connect authentic
 - Sponsorship opportunities
 - Premium tent/service offerings
 
+*See [Service-offering-concept.md](Service-offering-concept.md) for detailed service categories and target groups*
+
 
 ## Implementation Roadmap
 
@@ -91,7 +93,9 @@ A global network of temporary communities where digital nomads connect authentic
 - Core pages with interest registration
 - Community platform connections
 - Authentic brand
-- Landingpages and advertising
+- Landing pages and advertising
+
+*See [Website-Concept.md](Website-Concept.md) for detailed website strategy and [Marketing.md](Marketing.md) for messaging approach*
 
 ### Phase 2: First Camp Launch
 - Location confirmation and announcement
@@ -99,11 +103,15 @@ A global network of temporary communities where digital nomads connect authentic
 - Community activation
 - Real-world concept validation
 
+*See [Camp-MVP.md](Camp-MVP.md) for first camp structure and details*
+
 ### Phase 3: Growth & Enhancement
 - Website features based on camp learnings
 - Service integration
 - Multi-camp network development
 - Enhanced community features
+
+*See [Service-offering-concept.md](Service-offering-concept.md) for service categories and integration strategy*
 
 
 ## What Makes Nomad Camp Unique
@@ -113,6 +121,24 @@ A global network of temporary communities where digital nomads connect authentic
 - **Authentic Community**: Real daily life sharing, not curated events
 - **Cost Transparency**: Clear shared cost model, no hidden profit motives
 
+
+## Team
+
+The Nomad Camp team consists of three core members:
+
+- **Yannik** (addiinocent) - Nomad and Camp Evangelist
+  - Focus: Vision, Operations, Coworking, IT
+  - Strength: Great Communication
+  
+- **Felix** (felixboehm) - Nomad and Founder  
+  - Focus: Vision, Strategy, Cooking, Coworking, IT
+  - Strength: Innovation and disruption
+  
+- **Andrej** (CerusX) - Nomad and Community Manager
+  - Focus: Workshops, Marketing, Community
+  - Strength: Food and freedom expertise
+
+*See [Team.md](Team.md) for detailed team information and [Marketing: Lead Acquisition FUNNEL.md](Marketing: Lead Acquisition FUNNEL.md) for marketing strategy implementation.*
 
 ## Call to Action
 
